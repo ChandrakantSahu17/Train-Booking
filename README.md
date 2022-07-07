@@ -1,3 +1,4 @@
+<pre>
 How to Run:
  For Server
  1. $ gcc server.c -o server
@@ -20,3 +21,4 @@ Features of the Project
  8. When you cancel the ticket the number of booked seats are reduced from the booked seats of the given train.
  9. When you modify the ticket i.e. the number of booked seats are reduced or increased from the booking, the booked seats of the given train are respectively reflected.
 10. READ and WRITE Locks are applied throughout server side to ensure smooth booking and other operations.
+</pre>
